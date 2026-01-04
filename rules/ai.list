@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,AI.com
 DOMAIN-SUFFIX,cdn.auth0.com
@@ -23,3 +24,4 @@ DOMAIN,generativelanguage.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
 DOMAIN,alkalimessages-pa.googleapis.com
 DOMAIN,aisandbox-pa.googleapis.com
+
